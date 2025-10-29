@@ -2,7 +2,7 @@
   {
     "entityRef": {
       "kind": "Critico",
-      "name": "hello-world"
+      "name": "prototype-angular-frontend"
     },
     "scorePercent": 97,
     "scoringReviewDate": "2025-10-29T08:00:00Z",
@@ -33,7 +33,7 @@
   {
     "entityRef": {
       "kind": "Alto",
-      "name": "non-valid-system"
+      "name": "prototype-batch-service"
     },
     "scoringReviewDate": "2025-10-20T08:00:00Z",
     "scorePercent": 91,
@@ -64,7 +64,7 @@
   {
     "entityRef": {
       "kind": "Medio",
-      "name": "audio-playback"
+      "name": "prototype-common-service"
     },
     "scorePercent": 30,
     "scoringReviewDate": "2025-09-22T08:00:00Z",
@@ -95,7 +95,7 @@
   {
     "entityRef": {
       "kind": "Bajo",
-      "name": "podcast"
+      "name": "prototype-react-frontend"
     },
     "generatedDateTimeUtc": "2021-07-22 10:00",
     "scorePercent": 85,
