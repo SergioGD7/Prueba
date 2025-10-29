@@ -1,7 +1,7 @@
 [
   {
     "entityRef": {
-      "kind": "Critico",
+      "Perfil de calidad": "Critico",
       "name": "prototype-angular-frontend"
     },
     "scorePercent": 50,
